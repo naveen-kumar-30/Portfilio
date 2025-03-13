@@ -9,6 +9,7 @@ import { FaUser, FaFolderOpen } from 'react-icons/fa';
 import { makeStyles } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
 import CloseIcon from '@material-ui/icons/Close';
+import Fade from 'react-reveal/Fade';
 
 import './Navbar.css';
 import { headerData } from '../../data/headerData';
