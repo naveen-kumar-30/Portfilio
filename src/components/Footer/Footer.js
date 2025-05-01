@@ -17,7 +17,7 @@ function Footer() {
 
     return (
         <div className="footer" style={{backgroundColor: theme.secondary}}>
-        
+                <p> </p>
         </div>
     )
 }
